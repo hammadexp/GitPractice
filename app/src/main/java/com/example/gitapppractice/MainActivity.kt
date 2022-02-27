@@ -14,6 +14,8 @@ class MainActivity : AppCompatActivity() {
         //Feature 1
         // Change 4 in master
         //Change 5 in master
+        //Change 6 in master
+        //Change 7 in master
         //feature 2
         //feature 2.2
         //feature 2.3
